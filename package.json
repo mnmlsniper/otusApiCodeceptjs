@@ -1,0 +1,24 @@
+{
+  "name": "otusApiCodeceptjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx codeceptjs run --steps",
+    "testDebug": "npx codeceptjs run --steps --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnmlsniper/otusApiCodeceptjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnmlsniper/otusApiCodeceptjs/issues"
+  },
+  "homepage": "https://github.com/mnmlsniper/otusApiCodeceptjs#readme",
+  "devDependencies": {
+    "codeceptjs": "^2.6.10"
+  }
+}
