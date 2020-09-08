@@ -20,6 +20,7 @@
   "homepage": "https://github.com/mnmlsniper/otusApiCodeceptjs#readme",
   "devDependencies": {
     "ajv": "^6.12.4",
-    "codeceptjs": "^2.6.10"
+    "codeceptjs": "^2.6.10",
+    "fs": "0.0.1-security"
   }
 }
